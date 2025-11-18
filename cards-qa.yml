@@ -1,0 +1,11 @@
+build:
+ version: "2.0"
+
+cards:
+  message: "Welcome to cards related to QA APIs"
+  contactDetails:
+    name: "Messi Thakre- Product  Owner"
+    email: "Messi@bank.com"
+  oncallsupport:
+    - "(666)215-3765"
+    - "(666)724-8731"

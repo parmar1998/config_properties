@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to bank accounts related to prod APIs"
+  contactDetails:
+    name: "Smita Roy - QA leads"
+    email: "john@bank.com"
+  oncallsupport:
+    - "(666)265-3765"
+    - "(666)734-8731"

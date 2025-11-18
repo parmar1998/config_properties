@@ -1,0 +1,10 @@
+build:
+  version: 8.9
+loans:
+  message: "Welcome to loans related to prod APIs"
+  contactDetails:
+    name: "Ram doe - developer"
+    email: "Ram@bank.com"
+  oncallsupport:
+    - "(555)515-1234"
+    - "(555)525-1235"

@@ -1,0 +1,10 @@
+build:
+  version: 8.9
+loans:
+  message: "Welcome to loans related to local APIs"
+  contactDetails:
+        name: "john doe - developer"
+        email: "john@bank.com"
+  oncallsupport:
+        - "(555)555-1234"
+        - "(555)555-1235"

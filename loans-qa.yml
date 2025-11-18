@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+
+loans:
+   message: "Welcome to loans related to QA APIs"
+   contactDetails:
+         name: "Akbar doe - developer"
+         email: "Akbar@bank.com"
+   oncallsupport:
+         - "(515)255-1234"
+         - "(525)155-1235"
